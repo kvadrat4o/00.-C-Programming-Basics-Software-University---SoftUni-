@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\bin\Debug\01.NumsWithStep3.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\AdvancedLoops\obj\Debug\01.NumsWithStep3.pdb

@@ -1,0 +1,5 @@
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_05_Diamond\bin\Debug\17July_05_Diamond.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_05_Diamond\bin\Debug\17July_05_Diamond.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_05_Diamond\bin\Debug\17July_05_Diamond.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_05_Diamond\obj\Debug\17July_05_Diamond.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_05_Diamond\obj\Debug\17July_05_Diamond.pdb

@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\obj\Debug\19March_Morning_04TrainerSalary.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\obj\Debug\19March_Morning_04TrainerSalary.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\bin\Debug\19March_Morning_04TrainerSalary.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\obj\Debug\19March_Morning_04TrainerSalary.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Morning_04TrainerSalary\obj\Debug\19March_Morning_04TrainerSalary.pdb

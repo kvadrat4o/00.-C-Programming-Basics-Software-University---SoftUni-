@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\bin\Debug\01.Excellent.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\bin\Debug\01.Excellent.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\bin\Debug\01.Excellent.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\obj\Debug\01.Excellent.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\obj\Debug\01.Excellent.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SimpleConditions\obj\Debug\01.Excellent.pdb

@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\obj\Debug\21February_03FallenInLove.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\obj\Debug\21February_03FallenInLove.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\bin\Debug\21February_03FallenInLove.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\obj\Debug\21February_03FallenInLove.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\February_03FallenInLove\obj\Debug\21February_03FallenInLove.pdb

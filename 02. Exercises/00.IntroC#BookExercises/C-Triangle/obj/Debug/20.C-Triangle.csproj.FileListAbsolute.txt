@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\bin\Debug\20.C-Triangle.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\bin\Debug\20.C-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\bin\Debug\20.C-Triangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\obj\Debug\20.C-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\obj\Debug\20.C-Triangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\C-Triangle\obj\Debug\20.C-Triangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\RadiansToDegrees\bin\Debug\10.RadiansToDegrees.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\RadiansToDegrees\obj\Debug\10.RadiansToDegrees.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\RadiansToDegrees\obj\Debug\10.RadiansToDegrees.pdb

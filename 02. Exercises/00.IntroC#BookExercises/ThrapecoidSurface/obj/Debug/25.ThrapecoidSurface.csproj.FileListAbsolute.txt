@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\ThrapecoidSurface\obj\Debug\25.ThrapecoidSurface.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\ThrapecoidSurface\obj\Debug\25.ThrapecoidSurface.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\ThrapecoidSurface\bin\Debug\25.ThrapecoidSurface.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\ThrapecoidSurface\obj\Debug\25.ThrapecoidSurface.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\ThrapecoidSurface\obj\Debug\25.ThrapecoidSurface.pdb

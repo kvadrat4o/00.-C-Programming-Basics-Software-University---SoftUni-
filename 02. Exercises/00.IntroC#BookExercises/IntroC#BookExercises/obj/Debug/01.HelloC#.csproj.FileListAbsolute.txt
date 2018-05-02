@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\bin\Debug\01.HelloC#.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\IntroC#BookExercises\obj\Debug\01.HelloC#.pdb

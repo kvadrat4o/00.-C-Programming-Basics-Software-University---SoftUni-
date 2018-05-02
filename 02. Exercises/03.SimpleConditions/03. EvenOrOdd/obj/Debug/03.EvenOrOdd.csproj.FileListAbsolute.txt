@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\bin\Debug\03.EvenOrOdd.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\bin\Debug\03.EvenOrOdd.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\bin\Debug\03.EvenOrOdd.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\obj\Debug\03.EvenOrOdd.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\obj\Debug\03.EvenOrOdd.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\EvenOrOdd\obj\Debug\03.EvenOrOdd.pdb

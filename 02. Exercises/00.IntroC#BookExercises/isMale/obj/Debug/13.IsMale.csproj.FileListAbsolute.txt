@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\isMale\bin\Debug\13.IsMale.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\isMale\bin\Debug\13.IsMale.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\isMale\bin\Debug\13.IsMale.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\isMale\obj\Debug\13.IsMale.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\isMale\obj\Debug\13.IsMale.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\isMale\bin\Debug\13.IsMale.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\isMale\bin\Debug\13.IsMale.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\isMale\bin\Debug\13.IsMale.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\isMale\obj\Debug\13.IsMale.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\isMale\obj\Debug\13.IsMale.pdb

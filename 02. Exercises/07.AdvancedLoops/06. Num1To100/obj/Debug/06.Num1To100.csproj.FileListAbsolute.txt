@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\bin\Debug\06.Num1To100.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\bin\Debug\06.Num1To100.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\bin\Debug\06.Num1To100.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\obj\Debug\06.Num1To100.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\obj\Debug\06.Num1To100.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\Num1To100\obj\Debug\06.Num1To100.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\bin\Debug\02.Expression.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\bin\Debug\02.Expression.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\bin\Debug\02.Expression.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\obj\Debug\02.Expression.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\obj\Debug\02.Expression.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Expression\obj\Debug\02.Expression.pdb

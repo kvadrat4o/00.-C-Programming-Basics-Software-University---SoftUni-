@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\obj\Debug\13.EarthAfter1000Days.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\bin\Debug\13.EarthAfter1000Days.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\bin\Debug\13.EarthAfter1000Days.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\bin\Debug\13.EarthAfter1000Days.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\obj\Debug\13.EarthAfter1000Days.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\EarthAfter1000Days\obj\Debug\13.EarthAfter1000Days.pdb

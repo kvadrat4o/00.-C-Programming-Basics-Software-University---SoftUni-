@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\obj\Debug\06March16_05Fortress.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\obj\Debug\06March16_05Fortress.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\bin\Debug\06March16_05Fortress.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\obj\Debug\06March16_05Fortress.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_05Fortress\obj\Debug\06March16_05Fortress.pdb

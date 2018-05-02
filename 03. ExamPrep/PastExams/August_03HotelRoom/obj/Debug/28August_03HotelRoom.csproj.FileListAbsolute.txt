@@ -1,0 +1,5 @@
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_03HotelRoom\bin\Debug\28August_03HotelRoom.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_03HotelRoom\bin\Debug\28August_03HotelRoom.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_03HotelRoom\bin\Debug\28August_03HotelRoom.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_03HotelRoom\obj\Debug\28August_03HotelRoom.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_03HotelRoom\obj\Debug\28August_03HotelRoom.pdb

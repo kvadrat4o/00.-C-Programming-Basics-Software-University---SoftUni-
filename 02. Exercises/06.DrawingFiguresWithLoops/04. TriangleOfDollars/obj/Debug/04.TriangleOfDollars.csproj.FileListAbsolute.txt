@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\04.TriangleOfDollars.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

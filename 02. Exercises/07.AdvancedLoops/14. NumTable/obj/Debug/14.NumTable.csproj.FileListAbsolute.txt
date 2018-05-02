@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\NumTable\bin\Debug\14.NumTable.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\NumTable\bin\Debug\14.NumTable.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\NumTable\bin\Debug\14.NumTable.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\NumTable\obj\Debug\14.NumTable.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\NumTable\obj\Debug\14.NumTable.pdb

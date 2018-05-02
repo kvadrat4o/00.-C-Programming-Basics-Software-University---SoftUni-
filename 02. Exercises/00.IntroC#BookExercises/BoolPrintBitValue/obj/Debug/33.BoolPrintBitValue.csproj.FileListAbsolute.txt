@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\BoolPrintBitValue\bin\Debug\33.BoolPrintBitValue.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\BoolPrintBitValue\bin\Debug\33.BoolPrintBitValue.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\BoolPrintBitValue\bin\Debug\33.BoolPrintBitValue.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\BoolPrintBitValue\obj\Debug\33.BoolPrintBitValue.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\BoolPrintBitValue\obj\Debug\33.BoolPrintBitValue.pdb

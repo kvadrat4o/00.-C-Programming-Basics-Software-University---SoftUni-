@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\obj\Debug\19March_Evening_03TruckDriver.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\obj\Debug\19March_Evening_03TruckDriver.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\bin\Debug\19March_Evening_03TruckDriver.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\obj\Debug\19March_Evening_03TruckDriver.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_03TruckDriver\obj\Debug\19March_Evening_03TruckDriver.pdb

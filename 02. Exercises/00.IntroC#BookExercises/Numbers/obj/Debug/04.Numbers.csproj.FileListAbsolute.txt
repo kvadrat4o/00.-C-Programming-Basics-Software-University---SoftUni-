@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\bin\Debug\04.Numbers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Numbers\obj\Debug\04.Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\bin\Debug\05.RectangleArea.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\bin\Debug\05.RectangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\bin\Debug\05.RectangleArea.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\obj\Debug\05.RectangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\obj\Debug\05.RectangleArea.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\RectangleArea\obj\Debug\05.RectangleArea.csprojResolveAssemblyReference.cache

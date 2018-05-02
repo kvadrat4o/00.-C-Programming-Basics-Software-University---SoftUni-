@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\obj\Debug\06March16_03TimeOfExam.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\obj\Debug\06March16_03TimeOfExam.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\bin\Debug\06March16_03TimeOfExam.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\obj\Debug\06March16_03TimeOfExam.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March16_O3TimeOfExam\obj\Debug\06March16_03TimeOfExam.pdb

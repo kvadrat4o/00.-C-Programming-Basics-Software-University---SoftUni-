@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\obj\Debug\07.SumSeconds.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\bin\Debug\07.SumSeconds.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\bin\Debug\07.SumSeconds.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\bin\Debug\07.SumSeconds.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\obj\Debug\07.SumSeconds.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\SumSeconds\obj\Debug\07.SumSeconds.pdb

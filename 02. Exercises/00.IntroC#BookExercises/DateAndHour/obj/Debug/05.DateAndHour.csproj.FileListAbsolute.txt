@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\bin\Debug\05.DateAndHour.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\DateAndHour\obj\Debug\05.DateAndHour.pdb

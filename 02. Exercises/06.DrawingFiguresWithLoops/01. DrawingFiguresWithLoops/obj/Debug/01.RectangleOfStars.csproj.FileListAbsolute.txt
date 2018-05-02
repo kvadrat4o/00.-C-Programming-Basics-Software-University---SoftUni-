@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\bin\Debug\01.RectangleOfStars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\bin\Debug\01.RectangleOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\bin\Debug\01.RectangleOfStars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\obj\Debug\01.RectangleOfStars.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\obj\Debug\01.RectangleOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\DrawingFiguresWithLoops\obj\Debug\01.RectangleOfStars.pdb

@@ -1,0 +1,5 @@
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_01DailyProfit\bin\Debug\28August_01DailyProfit.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_01DailyProfit\bin\Debug\28August_01DailyProfit.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_01DailyProfit\bin\Debug\28August_01DailyProfit.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_01DailyProfit\obj\Debug\28August_01DailyProfit.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\August_01DailyProfit\obj\Debug\28August_01DailyProfit.pdb

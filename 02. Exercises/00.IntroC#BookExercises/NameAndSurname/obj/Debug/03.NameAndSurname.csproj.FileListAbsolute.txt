@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\bin\Debug\03.NameAndSurname.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\NameAndSurname\obj\Debug\03.NameAndSurname.pdb

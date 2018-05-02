@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\obj\Debug\19March_Evening_04Bills.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\obj\Debug\19March_Evening_04Bills.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\bin\Debug\19March_Evening_04Bills.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\obj\Debug\19March_Evening_04Bills.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_04Bills\obj\Debug\19March_Evening_04Bills.pdb

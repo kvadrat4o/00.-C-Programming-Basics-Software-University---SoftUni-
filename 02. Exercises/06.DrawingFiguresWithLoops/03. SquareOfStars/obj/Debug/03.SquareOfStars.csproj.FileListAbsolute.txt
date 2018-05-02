@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\03.SquareOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\03.SquareOfStars.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\03.SquareOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\03.SquareOfStars.pdb

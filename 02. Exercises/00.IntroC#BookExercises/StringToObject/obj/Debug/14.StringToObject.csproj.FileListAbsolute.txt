@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\StringToObject\obj\Debug\14.StringToObject.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\StringToObject\obj\Debug\14.StringToObject.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\StringToObject\bin\Debug\14.StringToObject.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\StringToObject\obj\Debug\14.StringToObject.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\StringToObject\obj\Debug\14.StringToObject.pdb

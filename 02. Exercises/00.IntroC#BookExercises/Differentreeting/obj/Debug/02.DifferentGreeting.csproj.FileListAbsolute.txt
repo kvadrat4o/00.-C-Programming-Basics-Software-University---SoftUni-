@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\bin\Debug\02.DifferentGreeting.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Differentreeting\obj\Debug\02.DifferentGreeting.pdb

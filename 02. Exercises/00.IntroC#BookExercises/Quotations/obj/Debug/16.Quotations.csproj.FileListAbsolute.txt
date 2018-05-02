@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Quotations\obj\Debug\16.Quotations.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Quotations\obj\Debug\16.Quotations.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Quotations\bin\Debug\16.Quotations.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Quotations\obj\Debug\16.Quotations.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Quotations\obj\Debug\16.Quotations.pdb

@@ -1,0 +1,1 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\AsteriksTriangle\obj\Debug\04.AsteriksTriangle.csprojResolveAssemblyReference.cache

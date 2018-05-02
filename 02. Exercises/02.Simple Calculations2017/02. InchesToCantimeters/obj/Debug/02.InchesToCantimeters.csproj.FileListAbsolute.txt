@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\bin\Debug\02.InchesToCantimeters.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\bin\Debug\02.InchesToCantimeters.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\bin\Debug\02.InchesToCantimeters.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\obj\Debug\02.InchesToCantimeters.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\obj\Debug\02.InchesToCantimeters.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\InchesToCantimeters\obj\Debug\02.InchesToCantimeters.pdb

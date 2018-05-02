@@ -1,0 +1,5 @@
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_02Harvest\bin\Debug\17July_02Harvest.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_02Harvest\bin\Debug\17July_02Harvest.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_02Harvest\bin\Debug\17July_02Harvest.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_02Harvest\obj\Debug\17July_02Harvest.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\July_02Harvest\obj\Debug\17July_02Harvest.pdb

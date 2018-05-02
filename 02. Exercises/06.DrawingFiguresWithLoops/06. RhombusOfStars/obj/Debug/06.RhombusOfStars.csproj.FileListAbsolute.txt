@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TrapezoidArea\bin\Debug\05.TrapezoidArea.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TrapezoidArea\bin\Debug\05.TrapezoidArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TrapezoidArea\bin\Debug\05.TrapezoidArea.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TrapezoidArea\obj\Debug\05.TrapezoidArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TrapezoidArea\obj\Debug\05.TrapezoidArea.pdb

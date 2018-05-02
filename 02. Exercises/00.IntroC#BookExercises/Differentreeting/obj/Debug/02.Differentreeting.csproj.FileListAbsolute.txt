@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.Differentreeting.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.Differentreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\bin\Debug\02.Differentreeting.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.Differentreeting.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.Differentreeting.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Differentreeting\obj\Debug\02.Differentreeting.pdb

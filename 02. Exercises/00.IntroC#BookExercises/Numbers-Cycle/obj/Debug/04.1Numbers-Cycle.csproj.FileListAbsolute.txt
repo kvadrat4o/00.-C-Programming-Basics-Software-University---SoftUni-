@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\bin\Debug\04.1Numbers-Cycle.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\bin\Debug\04.1Numbers-Cycle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\bin\Debug\04.1Numbers-Cycle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\obj\Debug\04.1Numbers-Cycle.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\obj\Debug\04.1Numbers-Cycle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Numbers-Cycle\obj\Debug\04.1Numbers-Cycle.pdb

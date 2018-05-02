@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\obj\Debug\19March_Evening_05Parallelepiped.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\obj\Debug\19March_Evening_05Parallelepiped.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\bin\Debug\19March_Evening_05Parallelepiped.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\obj\Debug\19March_Evening_05Parallelepiped.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\March_Evening_05Parallelepiped\obj\Debug\19March_Evening_05Parallelepiped.pdb

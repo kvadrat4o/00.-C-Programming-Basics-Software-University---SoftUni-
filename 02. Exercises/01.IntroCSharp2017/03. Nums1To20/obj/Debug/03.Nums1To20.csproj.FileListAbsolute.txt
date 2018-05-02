@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\bin\Debug\03.Nums1To20.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\bin\Debug\03.Nums1To20.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\bin\Debug\03.Nums1To20.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\obj\Debug\03.Nums1To20.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\obj\Debug\03.Nums1To20.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroCSharp2017\Nums1To20\obj\Debug\03.Nums1To20.pdb

@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\bin\Debug\20.Char-Triangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\Char-Triangle\obj\Debug\20.Char-Triangle.pdb

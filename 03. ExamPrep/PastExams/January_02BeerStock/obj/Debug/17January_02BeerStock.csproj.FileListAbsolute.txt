@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\obj\Debug\17January_02BeerStock.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\obj\Debug\17January_02BeerStock.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.exe.config
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\bin\Debug\17January_02BeerStock.pdb
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\obj\Debug\17January_02BeerStock.exe
+D:\TL\SharpDevelop Projects\00.IntroInProgramming\08.ExamPreparation_PastExams\January_02BeerStock\obj\Debug\17January_02BeerStock.pdb

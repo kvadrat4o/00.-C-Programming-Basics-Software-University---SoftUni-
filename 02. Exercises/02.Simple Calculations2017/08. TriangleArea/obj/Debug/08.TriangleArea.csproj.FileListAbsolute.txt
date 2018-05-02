@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TriangleArea\bin\Debug\08.TriangleArea.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TriangleArea\bin\Debug\08.TriangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TriangleArea\bin\Debug\08.TriangleArea.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TriangleArea\obj\Debug\08.TriangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\TriangleArea\obj\Debug\08.TriangleArea.pdb

@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\EnterEveNumber\bin\Debug\11.EnterEveNumber.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\EnterEveNumber\bin\Debug\11.EnterEveNumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\EnterEveNumber\bin\Debug\11.EnterEveNumber.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\EnterEveNumber\obj\Debug\11.EnterEveNumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\07.AdvancedLoops\EnterEveNumber\obj\Debug\11.EnterEveNumber.pdb

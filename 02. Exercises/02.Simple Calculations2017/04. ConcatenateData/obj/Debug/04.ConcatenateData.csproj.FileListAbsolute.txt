@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\bin\Debug\04.ConcatenateData.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\bin\Debug\04.ConcatenateData.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\bin\Debug\04.ConcatenateData.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\obj\Debug\04.ConcatenateData.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\obj\Debug\04.ConcatenateData.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Simple Calculations\ConcatenateData\obj\Debug\04.ConcatenateData.pdb

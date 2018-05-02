@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\bin\Debug\04.GreaterNumber.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\bin\Debug\04.GreaterNumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\bin\Debug\04.GreaterNumber.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\obj\Debug\04.GreaterNumber.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\obj\Debug\04.GreaterNumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\SimpleConditions\GreaterNumber\obj\Debug\04.GreaterNumber.pdb

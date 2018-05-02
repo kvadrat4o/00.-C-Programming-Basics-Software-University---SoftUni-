@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\08.Sunglasses.pdb

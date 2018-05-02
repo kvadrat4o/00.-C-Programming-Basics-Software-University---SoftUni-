@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\bin\Debug\08.AgeIn10Years.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\00.IntroInProgramming\00.IntroC#BookExercises\AgeIn10Years\obj\Debug\08.AgeIn10Years.pdb
